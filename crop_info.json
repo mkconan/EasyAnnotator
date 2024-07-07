@@ -1,0 +1,32 @@
+[
+    {
+        "video_file": "/Users/matsuura/Development/EasyAnnotator/lovot.MP4",
+        "frame_number": 0,
+        "roi": {
+            "x1": 398,
+            "y1": 678,
+            "x2": 682,
+            "y2": 1064
+        }
+    },
+    {
+        "video_file": "/Users/matsuura/Development/EasyAnnotator/lovot.MP4",
+        "frame_number": 40,
+        "roi": {
+            "x1": 458,
+            "y1": 564,
+            "x2": 730,
+            "y2": 1038
+        }
+    },
+    {
+        "video_file": "/Users/matsuura/Development/EasyAnnotator/sea.MP4",
+        "frame_number": 0,
+        "roi": {
+            "x1": 812,
+            "y1": 188,
+            "x2": 1098,
+            "y2": 392
+        }
+    }
+]
